@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi! 👋
+
+I'm just another virtualized persona. Basically, I do a lot of things:
+
+- Sysop ([administrator](https://id.wikipedia.org/wiki/Wikipedia:Pengurus)) and social media admin at [Indonesian Wikipedia](https://id.wikipedia.org).
+- As non-virtualized persona, I work as social media admin for a company in Jakarta, Indonesia.
+- Watching [virtual YouTuber](https://en.wikipedia.org/wiki/Virtual_YouTuber).
+- Always trying to love myself and what I'm to do.
+
+Find more about me at [here](https://nohirara.xyz).
 
 <!--
 **nohirara/nohirara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
